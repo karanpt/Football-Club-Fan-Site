@@ -1,0 +1,115 @@
+
+body{
+background-image: url("99ba82c3f230c6055e9eb4a921113b39.jpg");
+background-repeat: no repeat;
+background-size: cover;
+}
+
+p.choose{
+ text-align: center;
+ color: white;
+ font-size: 30px;
+position: relative;
+    top: 60px;
+    
+}
+p.ll{
+ 
+
+    color: white;
+    position: relative;
+    top: 80px;
+    padding: 14px 25px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    
+    
+   
+}
+p.link{
+ 
+ 
+    text-align: center;
+}
+p.link2{
+ 
+ 
+    text-align: center;
+}
+a.rm{
+background-color: #f44336;
+    color: white;
+    position: relative;
+    top: 80px;
+    padding: 14px 25px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+   
+}
+p.rm{
+background-color: #f44336;
+    color: white;
+    position: relative;
+    top: 80px;
+    padding: 14px 25px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    left: 35%;
+	font-size: 25px;
+   
+}
+a.chelsea{
+background-color: #f44336;
+    color: white;
+    position: relative;
+    top: 80px;
+    border-radius: 10px;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+}
+a.arsenal{
+background-color: #f44336;
+    color: white; 
+    position: relative;
+    top: 80px;
+    border-radius: 10px; 
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+}
+a.barca{
+background-color: #f44336;
+    color: white;
+    border-radius: 10px;
+    padding: 14px 25px;
+    position: relative;
+    top: 80px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px; 
+    display: inline-block;
+}
+a.ticket{
+background-color: #4CAF50;
+    color: white;
+    border-radius: 10px;
+    padding: 14px 25px;
+    position: relative;
+    top: 80px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px; 
+    display: inline-block;
+}
